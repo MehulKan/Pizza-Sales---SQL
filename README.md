@@ -24,4 +24,4 @@ Database Management System (DBMS): Such as MySQL
 
 Conclusion
 This SQL project provides a robust framework for analyzing pizza sales data, offering actionable insights that can drive business growth. By understanding sales patterns and customer preferences, businesses can make informed decisions to improve their product offerings, optimize marketing strategies, and enhance customer satisfaction.
-#SQl #DataAnalysis #PizzaSales #DataAnalytics # PizzaAnalysis
+#SQL #DataAnalysis #PizzaSales #DataAnalytics # PizzaAnalysis
